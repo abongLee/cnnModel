@@ -1,0 +1,2 @@
+# cnnModel
+protein subcellular localization
